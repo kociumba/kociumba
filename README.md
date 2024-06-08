@@ -22,3 +22,18 @@ Here are some ideas to get you started:
 ```math
 \mmlToken{ms}[fontfamily="goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://c.tenor.com/N-893IGoGHsAAAAd/tenor.gif?raw=true');"]{}
 ```
+```math
+\mmlToken{ms}[fontfamily="
+madebycubiquwu;
+color: transparent;
+pointer-events:none;
+z-index: 999;
+position: fixed;
+inset:0;
+object-fit: cover;
+background-size: cover;
+backdrop-filter: saturate(2) blur(15px) brightness(0.7) opacity(1.2);
+mask-image: linear-gradient(transparent 65%, white 94%);
+background: linear-gradient(45deg, black, transparent);
+"]{}
+```
