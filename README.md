@@ -19,14 +19,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- they patched it 😭 -->
+
 <!-- background -->
 
+<!--
 ```math
 \mmlToken{ms}[fontfamily="goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/kociumba/kociumba/blob/main/wtf.gif?raw=true');"]{}
 ```
+-->
 
 <!-- grdient -->
 
+<!--
 ```math
 \mmlToken{ms}[fontfamily="
 madebycubiquwu;
@@ -42,3 +47,4 @@ mask-image: linear-gradient(transparent 65%, white 94%);
 background: linear-gradient(45deg, black, transparent);
 "]{}
 ```
+-->
