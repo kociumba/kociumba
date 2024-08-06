@@ -1,6 +1,8 @@
 # Hi I'm kociumba 🫡
 
-*'So far Go is the best thing I experienced in programming.'* - me
+```go
+log.Info(func() bool { return "😎" != "💀" }())
+```
 
 ![kociumba's Stats](https://github-readme-stats.vercel.app/api?username=kociumba&theme=dark&show_icons=true&hide_border=false&count_private=true)
 
