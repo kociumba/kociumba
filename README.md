@@ -2,7 +2,8 @@
 # Hi I'm kociumba 🫡
 
 ```go
-log.Info(func() bool { return func() string { return "😎" }() != func() string { return "💀" }() }())
+// run it, i dare you
+log.Print(func() string { return string(func() int { return 0xA6C8 }() + func() int { return 0x14F46 }()) }())
 ```
 
 ![kociumba's Stats](https://github-readme-stats.vercel.app/api?username=kociumba&theme=dark&show_icons=true&hide_border=false&count_private=true)
