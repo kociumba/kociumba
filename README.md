@@ -1,3 +1,4 @@
+
 # Hi I'm kociumba 🫡
 
 ```go
@@ -5,6 +6,12 @@ log.Info(func() bool { return func() string { return "😎" }() != func() string
 ```
 
 ![kociumba's Stats](https://github-readme-stats.vercel.app/api?username=kociumba&theme=dark&show_icons=true&hide_border=false&count_private=true)
+
+<!-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/) -->
+<!-- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/) -->
+[![x](https://img.shields.io/badge/x-000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/kociumba)
+[![discord](https://img.shields.io/badge/discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://inv.wtf/gabagool)
+
 
 <!--
 **kociumba/kociumba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
