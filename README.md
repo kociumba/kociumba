@@ -1,7 +1,7 @@
 # Hi I'm kociumba 🫡
 
 ```go
-log.Info(func() bool { return "😎" != "💀" }())
+log.Info(func() bool { return func() string { return "😎" }() != func() string { return "💀" }() }())
 ```
 
 ![kociumba's Stats](https://github-readme-stats.vercel.app/api?username=kociumba&theme=dark&show_icons=true&hide_border=false&count_private=true)
