@@ -7,6 +7,7 @@ log.Print(func() string { return string(func() int { return 0xA6C8 }() + func() 
 ```
 
 ![kociumba's Stats](https://github-readme-stats.vercel.app/api?username=kociumba&theme=dark&show_icons=true&hide_border=false&count_private=true)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=kociumba&theme=dark,row=1)](https://github.com/kociumba/github-profile-trophy) -->
 
 <!-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/) -->
 <!-- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/) -->
